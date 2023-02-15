@@ -1,0 +1,8 @@
+Que es una dase de datos relacional;
+R.- conjunto de datos estructurados y relacionados entre si 
+
+Que es DML;
+Data manipulation languaje, es un consultor que comunica al usuario con la BD
+
+Que es DDL;
+data definition lenguajen, permite crear, modificar en la BD
